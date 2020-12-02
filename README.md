@@ -1,2 +1,2 @@
-# sameermithani.github.io
+sameermithani.github.io
 Sameer Mithani's Website
